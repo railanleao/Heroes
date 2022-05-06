@@ -6,4 +6,4 @@ Wizard Jannice = new Wizard("Jannice", 23, "White Wizard");
 
 WriteLine(Arus.Attack());
 WriteLine(Jannice.Attack());
-WriteLine(Jannice.Attack(7));
+WriteLine(Jannice.Attack(7)); 
